@@ -6,4 +6,3 @@ This project is a web vulnerability scanner designed to identify security weakne
 ## Features
 - Scans for common web vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and more.
 - Provides detailed reports on identified vulnerabilities.
-- Easy to use.

@@ -14,7 +14,7 @@ async function checkWebsiteStatus(url) {
   }
 }
 
-// Common vulnerability patterns for SQLi, XSS, etc.
+// Common vulnerability patterns for SQLi, XSS, etc..
 const patterns = {
   sqlInjection: [
     /union.*select/i,
